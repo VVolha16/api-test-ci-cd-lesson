@@ -36,7 +36,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\"username\":\"test321\",\"password\":\"test\"}",
+					"raw": "{\"username\":\"test456\",\"password\":\"test\"}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -85,7 +85,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\"username\":\"test321\",\"password\":\"test\"}",
+					"raw": "{\"username\":\"test456\",\"password\":\"test\"}",
 					"options": {
 						"raw": {
 							"language": "json"
